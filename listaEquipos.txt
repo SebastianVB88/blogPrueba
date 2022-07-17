@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-Lista de equipos italia:
-Milan
-Juventus
-Inter
-Napoli
-Roma
-Lazio
-Sassuolo
-Hellas Verona 
-Monza
-=======
 Lista de equipos italia:         Puntos:  
 Milan                          86
 Inter                          84
@@ -20,7 +8,6 @@ Lazio                          59
 Sassuolo                       58
 Hellas Verona                  52
 Monza                          43
->>>>>>> master
 
 Lista liga Española:
 Real Madrid                    92
@@ -38,10 +25,10 @@ Barcelona
 Ajax
 
 Ganadores balón de oro:
-Messi
-Cristiano Ronaldo
-Luka Modric
-Ricardo kaka
-Ronaldinho
-Van Basten
-Sheva
+Messi                          6
+Cristiano Ronaldo              4    
+Luka Modric                    1
+Ricardo kaka                   2
+Ronaldinho                     1
+Van Basten                     2
+Sheva                          1
