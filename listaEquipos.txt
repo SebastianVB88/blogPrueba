@@ -2,8 +2,8 @@ Lista de equipos italia:         Puntos:
 Milan                          86
 Inter                          84
 Juventus                       78
-Napoli                         76
-Roma                           62     
+Napoli                         78
+Roma                           67     
 Lazio                          59
 Sassuolo                       58
 Hellas Verona                  52
@@ -18,8 +18,19 @@ Real betis                     45
 
 Campeones de champions
 Milan
-Real Madrid
 Liverpool
-Bayern
+Real Madrid
 Barcelona
+Bayern
 Ajax
+
+Ganadores balón de oro:
+Messi
+Cristiano Ronaldo
+Luka Modric
+Ricardo kaka
+Ronaldinho
+Van Basten
+Sheva
+
+Conclusión: El mejor equipo del mundo es el AC Milan.
