@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Lista de equipos italia:
 Milan
 Juventus
@@ -8,13 +9,25 @@ Lazio
 Sassuolo
 Hellas Verona 
 Monza
+=======
+Lista de equipos italia:         Puntos:  
+Milan                          86
+Inter                          84
+Juventus                       78
+Napoli                         76
+Roma                           62     
+Lazio                          59
+Sassuolo                       58
+Hellas Verona                  52
+Monza                          43
+>>>>>>> master
 
 Lista liga Española:
-Real Madrid
-Barcelona
-Valencia
-Villareal
-Real betis
+Real Madrid                    92
+Barcelona                      82
+Valencia                       65   
+Villareal                      55
+Real betis                     45
 
 Campeones de champions
 Milan
